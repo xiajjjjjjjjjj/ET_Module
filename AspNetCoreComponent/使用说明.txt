@@ -1,0 +1,10 @@
+﻿1. NuGet安装
+	Microsoft.AspNetCore
+	Microsoft.AspNetCore.Mvc
+	Microsoft.AspNetCore.Mvc.Core
+
+2. 直接Add AspNetCoreComponent组件即可
+
+3. 支持ET 的 Reload 更新 Controller
+
+4. URL是HttpConfig配置中的，如果没有就是：http://*:5000
